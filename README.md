@@ -1,4 +1,4 @@
-![Dirane TAFEN's GitHub stats](https://github-readme-stats.vercel.app/api/?username=ulrichmonji&show_owner)
+![Ulrich MONJI's GitHub stats](https://github-readme-stats.vercel.app/api/?username=ulrichmonji&show_owner)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ulrichmonji&repo=student-list&show_owner=true)](https://github.com/ulrichmonji/student-list)
 
